@@ -24,3 +24,4 @@ texlive \
 cowsay \
 lolcat \
 mutt \
+youtube-dl \
