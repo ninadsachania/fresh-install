@@ -23,3 +23,4 @@ zathura-djvu \
 texlive \
 cowsay \
 lolcat \
+mutt \
