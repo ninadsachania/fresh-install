@@ -25,3 +25,5 @@ cowsay \
 lolcat \
 mutt \
 youtube-dl \
+python3-pip \
+:w
