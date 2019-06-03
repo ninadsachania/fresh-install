@@ -28,3 +28,4 @@ youtube-dl \
 python3-pip \
 postgresql postgresql-contrib \
 qemu \
+curl \
