@@ -29,3 +29,4 @@ python3-pip \
 postgresql postgresql-contrib \
 qemu \
 curl \
+trash-cli \ 
