@@ -33,3 +33,4 @@ trash-cli \
 ranger caca-utils highlight atool w3m poppler-utils mediainfo \
 zathura-cb \
 openssh-server \
+inkscape \
