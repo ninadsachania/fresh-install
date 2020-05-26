@@ -50,3 +50,4 @@ nodejs \
 wireshark \
 net-tools \
 newsboat \
+fd-find \
