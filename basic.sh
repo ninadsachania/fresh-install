@@ -51,3 +51,4 @@ wireshark \
 net-tools \
 newsboat \
 fd-find \
+texlive-latex-recommended texlive-pictures texlive-latex-extra \
