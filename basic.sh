@@ -55,3 +55,6 @@ texlive-latex-recommended texlive-pictures texlive-latex-extra \
 fortune-mod fortunes-off \
 samba \
 shotcut \
+sqlite3 \
+racket \
+binwalk \
