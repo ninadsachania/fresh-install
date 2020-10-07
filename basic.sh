@@ -60,4 +60,5 @@ racket \
 binwalk \
 flameshot \
 cmatrix \
-neofetch
+neofetch \
+darktable
