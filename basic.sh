@@ -58,3 +58,6 @@ shotcut \
 sqlite3 \
 racket \
 binwalk \
+flameshot \
+cmatrix \
+neofetch
